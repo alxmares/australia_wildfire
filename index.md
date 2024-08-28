@@ -67,3 +67,5 @@ An interactive dashboard was developed using Dash and Plotly, enabling users to 
 - **Region and Year Selection**: Users can select specific regions and years to visualize wildfire data.
 - **Monthly Average Fire Area**: A pie chart showing the average fire area per month for the selected region and year.
 - **Monthly Fire Pixels Count**: A bar chart displaying the average count of pixels for presumed vegetation fires by month.
+
+![gif](assets/0828.gif)
