@@ -1,0 +1,4 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: "Wildfire Geospatial Analysis in Australia" 
+description: "Geospatial data analysis and dashboard to understand the behavior of wildfires in Australia."
+logo: /assets/logo.jpg
