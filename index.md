@@ -8,6 +8,8 @@ This map shows the distribution of wildfires across Australia. Use the interacti
 
 <iframe src="detailed_marker_map.html" width="100%" height="600" style="border:none;"></iframe>
 
+* * *
+
 ## 🛠️ Tools and Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -69,3 +71,11 @@ An interactive dashboard was developed using Dash and Plotly, enabling users to 
 - **Monthly Fire Pixels Count**: A bar chart displaying the average count of pixels for presumed vegetation fires by month.
 
 ![gif](assets/0828.gif)
+
+* * *
+
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
